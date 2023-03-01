@@ -1,3 +1,11 @@
+# Project Description
+A note app helps you to keep record of all your work.It is build using react framework.
+
+## Screenshots
+
+### Project snapshot
+![image](https://user-images.githubusercontent.com/75305063/222232556-29b1d5e5-ebfd-4379-ae6c-330ca566a6ba.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
